@@ -1,0 +1,127 @@
+#body{
+  background-color: black;
+}
+marquee{
+  background-color:#F61354;
+  height: 30px;
+  right: 17px;
+  text-decoration:inherit;
+  color: #fff;
+  font-size: 20px;
+
+}
+.top{
+  background: black;
+}
+/* ip */
+.ip{
+  padding:3% 5%;
+}
+.x{
+ background: url(image 6.png);
+ transform: rotate(40.84deg);
+}
+/*ellipse*/
+.ellipse{
+  padding:4% 5%;
+  position: absolute;
+  right: 4%;
+}
+/* navigation*/
+#navigation{
+  color:#fff;
+  background-color: black;
+  padding-left:5%;
+  padding-right: 3%;
+  font-family: "Montserrat";
+  padding-top: 2% ;
+  font-size: 30px;
+
+}
+.horizontal-line1{
+  transform: rotate(90deg);
+  height: 42px;
+ width: 101px;
+ position:absolute;
+ left: 21%;
+ top:28%;
+ opacity: 50%;
+}
+.horizontal-line2{
+  transform: rotate(90deg);
+  height: 42px;
+ width: 101px;
+ position:absolute;
+ left: 43%;
+ top:28%;
+ opacity: 50%;
+}
+.horizontal-line3{
+  transform: rotate(90deg);
+  height: 42px;
+ width: 101px;
+ position:absolute;
+ left: 65%;
+ top:28%;
+ opacity: 50%;
+}
+/*middle-part*/
+#middle-part{
+  padding:3% 2%;
+  background-color: black;
+  color:white;
+}
+.header-section{
+  padding-right:4%;
+}
+.middle-paragraph{
+  font-weight:lighter;
+}
+.newspaper{
+height: 250px;
+width: 500px;
+
+}
+.col-header{
+  font-weight: lighter;
+}
+.investment-option{
+  Width:202px;
+  Height:44px;
+  color: rgba(255, 255, 255, 0.7);
+   text-align: center;
+}
+.line{
+  width:60%;
+}
+.unsplash-image{
+  width: 315px;
+  height: 173px;
+  padding: 5% 5%;
+  text-align: center;
+}
+ /*sunset*/
+ #sunset{
+   margin: 40px;
+   background: #121212;
+ border: 1px solid #FFFFFF;
+ border-radius: 21px;
+   color:white;
+ }
+ .image-sunset{
+   width:550px;
+   height: 300px;
+   border: 1px;
+   border-radius: 25px;
+   position:relative;
+   bottom:25px;
+   left:-20px;
+
+ }
+.loadmore-button{
+  text-decoration:white;
+  text-align: center;
+  border-color: #FFFFFF;
+  border-radius: 27px;
+  margin-bottom: :2%
+}
